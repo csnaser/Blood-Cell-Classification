@@ -1,0 +1,19 @@
+# Dataset & Zips
+*.zip
+*.tar.gz
+data/
+blood_cells_data/
+dataset2-master/
+
+# Python / Colab cache
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Model weights
+*.pth
+*.pt
